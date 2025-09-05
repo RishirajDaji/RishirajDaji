@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @RishirajDaji
-- 👀 I’m interested in web Developing and web Designing
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Rishirajdarji12@gmail.com
+# Hi, I'm Rishiraj 👋
 
-<!---
-RishirajDaji/RishirajDaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a passionate **Web Developer** and **Front-end Enthusiast** with skills in:
+
+- HTML, CSS, JavaScript
+- Python, MySQL
+- Responsive and user-friendly web design
+
+🎓 **Education:**  
+- Completed **Bachelor of Computer Applications (BCA)**  
+- Currently pursuing **Master of Science in Information Technology (MSc IT)**  
+
+💻 Some of my projects:  
+- [Online Clothes Store](#) – E-commerce web app built with HTML, CSS, JS  
+- [Python Snake Game](#) – Classic Snake game using Python  
+
+📫 Connect with me:  
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rishiraj-darji-59435b328)  
+- Email: yourname@email.com  
+
+🌱 I’m always eager to learn new technologies and explore creative challenges.
