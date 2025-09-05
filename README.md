@@ -16,6 +16,6 @@ I’m a passionate **Web Developer** and **Front-end Enthusiast** with skills in
 
 📫 Connect with me:  
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rishiraj-darji-59435b328)  
-- Email: yourname@email.com  
+- Email: rishirajdarji12@email.com  
 
 🌱 I’m always eager to learn new technologies and explore creative challenges.
